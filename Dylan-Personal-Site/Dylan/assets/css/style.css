@@ -431,7 +431,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top right;
+  background: url("../img/UnsplashPics/samsung-memory-tWEo5fPM8gk-unsplash.jpg") top right;
   background-size: cover;
 }
 
@@ -496,16 +496,17 @@ h6 {
     right: 0;
   }
 
-  #hero h1 {
+  #hero h1 .animate-typing{
     font-size: 28px;
     line-height: 36px;
   }
 
-  #hero h2 {
+  #hero h2 .animate-typing{
     font-size: 18px;
     line-height: 24px;
   }
 }
+
 
 /*--------------------------------------------------------------
 # Sections General
@@ -1307,4 +1308,13 @@ section {
 
 #footer .credits a {
   color: #34b7a7;
+}
+
+/* Animate Typing Plugin */
+
+.animate-typing {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  padding: 20px;
 }
