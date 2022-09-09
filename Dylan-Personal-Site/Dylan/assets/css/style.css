@@ -1140,6 +1140,130 @@ section {
 .portfolio-details .portfolio-description p {
   padding: 0;
 }
+/* Dungeon */
+.dungeon-details {
+  padding-top: 0;
+}
+
+.dungeon-details .dungeon-details-slider img {
+  width: 100%;
+}
+
+.dungeon-details .dungeon-details-slider .swiper-pagination {
+  margin-top: 20px;
+  position: relative;
+}
+
+.dungeon-details .dungeon-details-slider .swiper-pagination .swiper-pagination-bullet {
+  width: 12px;
+  height: 12px;
+  background-color: #fff;
+  opacity: 1;
+  border: 1px solid #34b7a7;
+}
+
+.dungeon-details .dungeon-details-slider .swiper-pagination .swiper-pagination-bullet-active {
+  background-color: #34b7a7;
+}
+
+.dungeon-details .dungeon-info {
+  padding: 30px;
+  box-shadow: 0px 0 30px rgba(34, 34, 34, 0.08);
+}
+
+.dungeon-dungeon-info h3 {
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #eee;
+}
+
+.dungeon-details .dungeon-info ul {
+  list-style: none;
+  padding: 0;
+  font-size: 15px;
+}
+
+.dungeon-details .dungeon-info ul li+li {
+  margin-top: 10px;
+}
+
+.dungeon-details .dungeon-description {
+  padding-top: 30px;
+}
+
+.dungeon-details .dungeon-description h2 {
+  font-size: 26px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.dungeon-details .dungeon-description p {
+  padding: 0;
+}
+/* StoreFront */
+.storefront-details {
+  padding-top: 0;
+}
+
+.storefront-details .storefront-details-slider img {
+  width: 100%;
+}
+
+.storefront-details .storefront-details-slider .swiper-pagination {
+  margin-top: 20px;
+  position: relative;
+}
+
+.storefront-details .storefront-details-slider .swiper-pagination .swiper-pagination-bullet {
+  width: 12px;
+  height: 12px;
+  background-color: #fff;
+  opacity: 1;
+  border: 1px solid #34b7a7;
+}
+
+.storefront-details .storefront-details-slider .swiper-pagination .swiper-pagination-bullet-active {
+  background-color: #34b7a7;
+}
+
+.storefront-details .storefront-info {
+  padding: 30px;
+  box-shadow: 0px 0 30px rgba(34, 34, 34, 0.08);
+}
+
+.storefront-storefront-info h3 {
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #eee;
+}
+
+.storefront-details .storefront-info ul {
+  list-style: none;
+  padding: 0;
+  font-size: 15px;
+}
+
+.storefront-details .storefront-info ul li+li {
+  margin-top: 10px;
+}
+
+.storefront-details .storefront-description {
+  padding-top: 30px;
+}
+
+.storefront-details .storefront-description h2 {
+  font-size: 26px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.storefront-details .storefront-description p {
+  padding: 0;
+}
 
 /*--------------------------------------------------------------
 # Contact
