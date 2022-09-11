@@ -496,12 +496,12 @@ h6 {
     right: 0;
   }
 
-  #hero h1 .animate-typing{
+  #hero h1 {
     font-size: 28px;
     line-height: 36px;
   }
 
-  #hero h2 .animate-typing{
+  #hero h2 {
     font-size: 18px;
     line-height: 24px;
   }
@@ -1432,13 +1432,4 @@ section {
 
 #footer .credits a {
   color: #34b7a7;
-}
-
-/* Animate Typing Plugin */
-
-.animate-typing {
-  font-size: 30px;
-  font-weight: bold;
-  text-align: center;
-  padding: 20px;
 }
